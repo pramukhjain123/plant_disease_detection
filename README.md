@@ -1,4 +1,4 @@
-# plant_disease_detection
+# Plant_disease_detection
 ![image](https://github.com/user-attachments/assets/bd747b8b-9f19-4835-b38a-f65b9163d5f9)
 ![image](https://github.com/user-attachments/assets/5c538a3a-0224-4ffb-a35a-cf8ef3bee349)
 ![image](https://github.com/user-attachments/assets/2869febf-26e3-4c03-a584-aaec2f0fd295)
